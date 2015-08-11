@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 8.txt
+=======
+soy el numero 8
+>>>>>>> dcc1c359d8f48811fef07f79a4dc6523d86fe412
